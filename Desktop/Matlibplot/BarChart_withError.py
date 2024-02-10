@@ -16,3 +16,5 @@ plt.title("Final Exam Averages")
 plt.xlabel("Year")
 plt.ylabel("Test Average")
 plt.savefig("my_bar_chart.png")
+
+plt.show()
